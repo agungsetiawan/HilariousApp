@@ -1,0 +1,13 @@
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\HilariousApp.UI.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\HilariousApp.UI.pdb
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\obj\Debug\HilariousApp.UI.csprojResolveAssemblyReference.cache
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\obj\Debug\HilariousApp.UI.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\obj\Debug\HilariousApp.UI.pdb
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\HilariousApp.BL.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\HilariousApp.DA.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\HilariousApp.BL.pdb
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\HilariousApp.DA.pdb
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\EntityFramework.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\EntityFramework.xml
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\EntityFramework.SqlServer.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.UI\bin\EntityFramework.SqlServer.xml

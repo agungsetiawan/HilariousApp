@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilariousApp.UI", "HilariousApp.UI\HilariousApp.UI.csproj", "{4D409932-C36A-4761-B13F-E89BDADDE639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilariousApp.BL", "HilariousApp.BL\HilariousApp.BL.csproj", "{0322DB48-12D7-423E-971C-B1C606C0B65F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilariousApp.DA", "HilariousApp.DA\HilariousApp.DA.csproj", "{0313F5EB-5E99-40C9-A694-F0C55F16D119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D409932-C36A-4761-B13F-E89BDADDE639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D409932-C36A-4761-B13F-E89BDADDE639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D409932-C36A-4761-B13F-E89BDADDE639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D409932-C36A-4761-B13F-E89BDADDE639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0322DB48-12D7-423E-971C-B1C606C0B65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0322DB48-12D7-423E-971C-B1C606C0B65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0322DB48-12D7-423E-971C-B1C606C0B65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0322DB48-12D7-423E-971C-B1C606C0B65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0313F5EB-5E99-40C9-A694-F0C55F16D119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0313F5EB-5E99-40C9-A694-F0C55F16D119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0313F5EB-5E99-40C9-A694-F0C55F16D119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0313F5EB-5E99-40C9-A694-F0C55F16D119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

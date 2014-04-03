@@ -1,0 +1,12 @@
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\HilariousApp.DA.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\HilariousApp.DA.pdb
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\obj\Debug\HilariousApp.DA.csprojResolveAssemblyReference.cache
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\obj\Debug\HilariousApp.DA.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\obj\Debug\HilariousApp.DA.pdb
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\HilariousApp.DA.dll.config
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\EntityFramework.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\EntityFramework.xml
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\obj\Debug\HilariousApp.DA.Migrations.InitMigration.resources
+c:\users\agung_s\documents\visual studio 2012\Projects\HilariousApp\HilariousApp.DA\obj\Debug\HilariousApp.DA.csproj.GenerateResource.Cache
